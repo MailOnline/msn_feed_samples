@@ -1,0 +1,38 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>MailOnline MSN</title>
+<language>en-GB</language>
+<link>https://www.dailymail.co.uk/feeds/msn-article-body/channel/news.rss</link>
+<description>Daily Mail news feeds for MailOnline MSN</description>
+<atom:link rel="self" type="application/rss+xml" href="https://www.dailymail.co.uk/feeds/msn-article-body/channel/news.rss"/>
+<item>
+<title>Man accused of driving at more than 200mph on the M23</title>
+<link>https://www.dailymail.co.uk/news/article-9860051/Man-accused-driving-200mph-M23.html</link>
+<pubDate>Wed, 04 Aug 2021 11:42:42 +0000</pubDate>
+<guid isPermaLink="false">9860051</guid>
+<description>
+<![CDATA[ James Hollett, 40, pictured outside Crawley Magistrates' Court today pleaded not guilty to driving at 201mph on the M23 in Sussex. Hollett also denies speeding on the A24 on June 2, 2019. ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p class="mol-para-with-font">A man accused of filming himself at speeds of more than 200mph on the M23 denied dangerous driving.</p><p class="mol-para-with-font">James Hollett, 40, pleaded not guilty to stealing the Audi before filming himself  driving one-handed on the M23 in Sussex.</p><p class="mol-para-with-font">He spoke only to confirm his name and address.</p><p class="mol-para-with-font">If convicted, it will be the fastest ever speeding offence recorded in Britain, beating the previous record of 192mph.  </p><p class="mol-para-with-font">Magistrates in Crawley heard he is accused of filming the speeding himself.</p><p class="mol-para-with-font">Melanie Wotton of the CPS said: 'There is evidence he was driving in excess of 200mph whilst filing himself, one handed.'</p><p class="mol-para-with-font">Mr Hollett was also charged with another incident of dangerous driving on the A24 near Horsham on June 2, 2019.</p><p class="mol-para-with-font">Ms Wotton told the court the second incident involved Mr Hollett driving a BMW and racing with a Lamborghini at speeds in excess of 150mph.</p><p class="mol-para-with-font">'There are other users on the road,' Ms Wotton said.</p><img src="https://i.dailymail.co.uk/1s/2021/08/04/11/28658516-9860051-Footage_of_the_alleged_speeding_incident_was_uploaded_to_social_-m-24_1628073360533.jpg" height="362" width="632" alt="Footage of the alleged speeding incident was uploaded to social media, pictured. Mr Hollett denies all charges " data-licensor-name="None" /><p class="mol-para-with-font">Mr Hollett, of Pease Pottage, appeared at Crawley Magistrates' Court charged with aggravated vehicle taking and dangerous driving on April 26 last year.</p><p class="mol-para-with-font">He is also charged with dangerous driving, relating to an incident on the A24 near Horsham on June 2, 2019.</p><p class="mol-para-with-font">He will appear again at Crown Court next month.</p><a href='https://www.dailymail.co.uk/news/article-9860051/Man-accused-driving-200mph-M23.html'>Read more</a> ]]>
+</content:encoded>
+<dc:description>James Hollett, 40, pictured outside Crawley Magistrates' Court today pleaded not guilty to aggravated vehicle taking and dangerous driving at speeds of up to 201mph on the M23 on April 26 last year. He is also charged with dangerous driving relating to an incident on the A24 near Horsham on June 2, 2019. Melanie Wotton of the CPS told magistrates: 'There is evidence he was driving in excess of 200mph whilst filing himself, one handed.' If convicted, it will be the fastest ever speeding offence recorded in Britain, beating the previous record of 192mph.</dc:description>
+<dc:publisher>MailOnline</dc:publisher>
+<dc:creator>Barry Keevins For Mailonline</dc:creator>
+<dcterms:modified>2021-08-04T16:49:03.000+01:00</dcterms:modified>
+<mi:shortTitle>Man accused of driving at more than 200mph on the M23</mi:shortTitle>
+<mi:dateTimeWritten>2021-08-04T16:49:03.000+01:00</mi:dateTimeWritten>
+<media:keywords>Crime</media:keywords>
+<media:content url="https://i.dailymail.co.uk/1s/2021/08/04/11/46272951-9860051-image-a-22_1628073082803.jpg" medium="image">
+<media:title>Crawley Magistrates' Court, pictured, heard Mr Hollett has also been charged with another incident of dangerous driving where he was accused of racing a BMW against a Lamborghini at speeds in excess of 150mph</media:title>
+<media:text>Crawley Magistrates court in West Sussex where Mathew Daley appeared charged with the murder of 79 year road rage victim Don Lock.Picture David Parker 20.7.15. REXMAILPIX.</media:text>
+<mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+<mi:licenseId>1154409</mi:licenseId>
+<mi:licensorName>David Parker</mi:licensorName>
+</media:content>
+<atom:link rel="related" type="text/html" href="https://www.dailymail.co.uk/news/article-9860275/Loitering-party-goer-twice-grabbed-female-exec-dancefloor-Christmas-bash-City-club.html" title="'Loitering' party-goer, 51, 'twice grabbed female exec, 31, between legs on dancefloor at Christmas bash in City club - but she ignored first attack to not make a scene in front of clients' "/>
+<atom:link rel="related" type="text/html" href="https://www.dailymail.co.uk/news/article-9859653/Trans-YouTuber-Chris-Chan-39-filed-female-police-housed-women-inmates.html" title="Trans YouTuber Chris Chan, 39, is filed as female in police report and will be jailed with women inmates despite being biologically male and 'arrested for raping dementia sufferer mother, 79' "/>
+</item>
+</channel>
+</rss>
