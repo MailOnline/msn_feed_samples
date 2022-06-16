@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+mlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <channel>
         <title>MailOnline MSN</title>
         <language>en-GB</language>
@@ -24,7 +24,7 @@
             <mi:dateTimeWritten>2022-06-16T07:33:32.000+01:00</mi:dateTimeWritten>
             <media:keywords>Brisbane,Gold Coast,Sydney</media:keywords>
             <media:content url="https://i.dailymail.co.uk/1s/2022/06/16/01/59075731-10921363-Hanks_plays_Tom_Parker_Elvis_s_manager_in_the_film_with_Austin_B-a-27_1655341038631.jpg" medium="image">
-                <media:title><![CDATA[Hanks plays Tom Parker, Elvis's manager, in the film, with Austin Butler starring as Presley]]></media:title>
+                <media:title><![CDATA[Hanks æ� plays Tom Parker, Elvis's manager, in the film, with Austin Butler starring as Presley]]></media:title>
                     <media:text><![CDATA[2HPTNA8 USA. Austin Butler and Tom Hanks in a scene from (C)Warner Bros. Pictures new film: Elvis (2022). Plot: A look at the life of the legendary rock and roll star, Elvis Presley.Ref: LMK110-J7903 -220222Supplied by LMKMEDIA. Editorial Only.Landmark Media is not the copyright owner of these Film or TV stills but provides a service only for recognised Media outlets. pictures@lmkmedia.com]]></media:text>
                 <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
                 <mi:licenseId>1452256</mi:licenseId>
